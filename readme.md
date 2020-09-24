@@ -7,7 +7,7 @@
 CSE445 Course Project and my first Machine Learning Project.
 
 It's a content based recommender that recommends similar anime based on the similarities of anime information like it's type, genre, episode, rating, fanbase.
-
+![](https://github.com/FHShubho/Anime_Recommender/blob/master/Screenshot.png)
 
 
 ### Dataset
